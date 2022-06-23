@@ -1,0 +1,11 @@
+D:\Archivos\Estáticos\Proyectos-Software\Learn\Rust\ferris-says\target\debug\deps\textwrap-9e58befd75799d63.rmeta: C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\lib.rs C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\indentation.rs C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\splitting.rs C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core.rs C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core\optimal_fit.rs
+
+D:\Archivos\Estáticos\Proyectos-Software\Learn\Rust\ferris-says\target\debug\deps\libtextwrap-9e58befd75799d63.rlib: C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\lib.rs C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\indentation.rs C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\splitting.rs C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core.rs C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core\optimal_fit.rs
+
+D:\Archivos\Estáticos\Proyectos-Software\Learn\Rust\ferris-says\target\debug\deps\textwrap-9e58befd75799d63.d: C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\lib.rs C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\indentation.rs C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\splitting.rs C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core.rs C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core\optimal_fit.rs
+
+C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\lib.rs:
+C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\indentation.rs:
+C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\splitting.rs:
+C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core.rs:
+C:\Users\pepe_\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core\optimal_fit.rs:
